@@ -139,6 +139,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCXSKBDF
 
+[Parameter1]
+Name=Date
+Value=
+
+[Parameter2]
+Name=Section
+Value=
+
+[Parameter3]
+Name=Rev
+Value=A.0
+
+[Parameter4]
+Name=Engineer
+Value=Domenico Spagnuolo
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
