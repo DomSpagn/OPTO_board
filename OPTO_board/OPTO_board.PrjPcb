@@ -139,21 +139,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCXSKBDF
 
+[GeneratedDocument1]
+DocumentPath=Schematics.cmp
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Date
 Value=
 
 [Parameter2]
-Name=Section
-Value=
+Name=Engineer
+Value=Domenico Spagnuolo
 
 [Parameter3]
 Name=Rev
 Value=A.0
 
 [Parameter4]
-Name=Engineer
-Value=Domenico Spagnuolo
+Name=Section
+Value=
 
 [Configuration1]
 Name=Sources
