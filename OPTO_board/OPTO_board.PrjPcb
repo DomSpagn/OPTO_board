@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -78,7 +78,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=0
@@ -144,19 +144,19 @@ DocumentPath=Schematics.cmp
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Section
+Name=Date
 Value=
 
 [Parameter2]
-Name=Rev
-Value=A.0
-
-[Parameter3]
 Name=Engineer
 Value=Domenico Spagnuolo
 
+[Parameter3]
+Name=Rev
+Value=A.0
+
 [Parameter4]
-Name=Date
+Name=Section
 Value=
 
 [Configuration1]
