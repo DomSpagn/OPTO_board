@@ -144,19 +144,19 @@ DocumentPath=Schematics.cmp
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Section
+Name=Date
 Value=
 
 [Parameter2]
-Name=Rev
-Value=A.0
-
-[Parameter3]
 Name=Engineer
 Value=Domenico Spagnuolo
 
+[Parameter3]
+Name=Rev
+Value=A.0
+
 [Parameter4]
-Name=Date
+Name=Section
 Value=
 
 [Configuration1]
